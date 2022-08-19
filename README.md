@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anmolranjan1, a 1st year student studying B. Tech in Computer Science and Engineering.
+- 👋 Hi, I’m @anmolranjan1, a 2nd year student studying B. Tech in Computer Science and Engineering.
 - 👀 I like to explore new technologies and learn new skills.
-- 🌱 I’m currently learning C, C++, Python and HTML as well.
+- 🌱 Have knowledge of C, C++ and HTML and know some basics of Python.
+      Currently learning Java, CSS and Javascript.
 - 👍 Being a B.Tech student, I love to explore new technologies and learn new skills.
 
 <!---
