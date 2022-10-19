@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Hi, I’m @anmolranjan1, a 2nd year student studying B. Tech in Computer Science and Engineering.<br>🌱 I’m currently learning App Development.<br>🤔 Have knowledge of C, C++, WordPress, and HTML, and know the basics of Python.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/anmol-ranjan-098907224<br>😄 Pronouns: He/His<br>⚡ Being a B.Tech student, I love to explore new technologies and learn new skills.
 
+[![@anmolranjan1's Holopin board](https://holopin.me/anmolranjan1)](https://holopin.io/@anmolranjan1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_ranjan_srivastava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-ranjan-098907224) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anmolranjan1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anmol_Ranjan_1) 
