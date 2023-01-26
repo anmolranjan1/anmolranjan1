@@ -19,5 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<script src="https://tryhackme.com/badge/1550538"></script>
 ---
 [![](https://visitcount.itsvg.in/api?id=anmolranjan1&icon=5&color=6)](https://visitcount.itsvg.in)
