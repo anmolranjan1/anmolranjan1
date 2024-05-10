@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I’m @anmolranjan1, a 3rd year student studying B. Tech in Computer Science and Engineering.<br>🌱 I’m currently learning App Development.<br>🤔 Have knowledge of C, C++, Python, Flask, WordPress, HTML, CSS, & JavaScript. I am also familiar with Adobe Illustrator & Photoshop.<br>💬 Ask me about Exciting projects to work on.<br>📫 How to reach me: http://bit.ly/3jPVvuv<br>😄 Pronouns: He/His<br>⚡ Being a B.Tech student, I love to explore new technologies and learn new skills.
+🔭 Hi, I’m @anmolranjan1, a 3rd year student studying B. Tech in Computer Science and Engineering.<br>🌱 I’m currently learning iOS App Development.<br>🤔 Have knowledge of C, C++, Python, Flask, WordPress, HTML, CSS, & JavaScript. I am also familiar with Adobe Illustrator & Photoshop.<br>💬 Ask me about Exciting projects to work on.<br>📫 How to reach me: http://bit.ly/3jPVvuv<br>😄 Pronouns: He/His<br>⚡ Being a B.Tech student, I love to explore new technologies and learn new skills.
 
 [![@anmolranjan1's Holopin board](https://holopin.me/anmolranjan1)](https://holopin.io/@anmolranjan1)
 
