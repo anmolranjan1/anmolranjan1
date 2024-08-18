@@ -1,13 +1,17 @@
 # 💫 About Me:
-🔭 Hi, I’m @anmolranjan1, a final year student studying B. Tech in Computer Science and Engineering.<br>🌱 I’m currently learning iOS App Development.<br>🤔 Have knowledge of C, C++, Python, Flask, WordPress, HTML, CSS, & JavaScript. I am also familiar with Adobe Illustrator & Photoshop.<br>💬 Ask me about Exciting projects to work on.<br>📫 Pronouns: He/His<br>⚡ Being a B.Tech student, I love to explore new technologies and learn new skills.
+🔭 Hi, I’m @anmolranjan1, a final-year B.Tech student in Computer Science and Engineering at Galgotias University.<br>  
+🌱 I’m currently learning iOS App Development and working on exciting projects.<br>  
+🤔 I have experience with Swift, Xcode, Python, C++, PHP, Java, and frameworks like Flask and MERN Stack. I'm also familiar with HTML, CSS, JavaScript, and tools like Adobe Illustrator and Photoshop.<br>  
+💬 Ask me about iOS development, exciting projects to work on, or any tech-related queries.<br>  
+📫 Pronouns: He/His<br>  
+⚡ As a B.Tech student, I’m passionate about exploring new technologies and continually learning new skills.
 
 [![@anmolranjan1's Holopin board](https://holopin.me/anmolranjan1)](https://holopin.io/@anmolranjan1)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_ranjan_srivastava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-ranjan-098907224) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anmolranjan1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anmol_Ranjan_1) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_ranjan_srivastava)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-ranjan-098907224)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anmolranjan1&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anmolranjan1&theme=nightowl&hide_border=true)<br/>
