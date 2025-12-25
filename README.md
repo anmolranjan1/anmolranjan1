@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Hi, I’m Anmol Ranjan, a Computer Science Engineering graduate (B.Tech, 2025) from Galgotias University.<br>  🌱 I’m currently learning iOS App Development and working on exciting projects.<br>  🤔 I have experience with Swift, Xcode, Python, C++, and frameworks like Flask and MERN Stack. I'm also familiar with HTML, CSS, JavaScript, and tools like Adobe Illustrator and Photoshop.<br>  💬 Ask me about iOS development, exciting projects to work on, or any tech-related queries.<br>  📫 Pronouns: He/His<br>  ⚡ As a B.Tech student, I’m passionate about exploring new technologies and continually learning new skills.
+🔭 Hi, I’m Anmol Ranjan, a Computer Science Engineering graduate (B.Tech, 2025) from Galgotias University.<br> 
+🌱 I specialize in Java Full Stack Development, iOS App Development and I like working on exciting projects. <br>
+🤔 I have strong experience with **Java, Spring Boot, Swift, SwiftUI, UIKit, Xcode, CoreML, Python**, and modern web technologies including **MERN Stack, TypeScript, Redux**, along with **SQL & MongoDB**.<br>
+💬 🤔 I have strong experience with **Java, Spring Boot (basics), Swift, SwiftUI, UIKit, Xcode, CoreML, Python, C++**, and modern web technologies including **MERN Stack, TypeScript, Redux, Flask**, along with **SQL & MongoDB**.  
+💬 Ask me about **iOS development, Java full stack projects, REST APIs, full-stack applications, open-source contributions**, exciting projects to work on, or any tech-related queries.<br>
+📫 Pronouns: He/His<br>
+⚡ Passionate about **learning new technologies, solving real-world problems**, and growing as a software engineer through continuous learning and collaboration.
 
 [![@anmolranjan1's Holopin board](https://holopin.me/anmolranjan1)](https://holopin.io/@anmolranjan1)
 
